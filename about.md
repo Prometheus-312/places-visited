@@ -1,4 +1,4 @@
-#Places I've visited 
+# Places I've visited 
 
 index.html: its the main home page displaying the places I've visited.
 
